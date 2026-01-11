@@ -7,6 +7,8 @@ data visualization and insight generation using real-world datasets.
 ## Tools & Technologies
 - Python
 - Pandas
+- Seaborn
+- Scikit-learn
 - NumPy
 - Matplotlib / Seaborn
 - Jupyter Notebook
