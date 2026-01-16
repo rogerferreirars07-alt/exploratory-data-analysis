@@ -37,10 +37,6 @@ developed to analyze social and economic indicators using a real-world dataset.
   - Exploratory Data Analysis (EDA)
   - Dashboard construction
   - Insight interpretation and storytelling
-- 🎥 Video presentation explaining:
-  - The dataset
-  - The dashboard visuals
-  - The analytical narrative and insights
 
 📁 Notebook: `dashboard-analise-indicadores-sociais.ipynb`
 
