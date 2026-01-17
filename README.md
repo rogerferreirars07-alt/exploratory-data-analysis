@@ -182,10 +182,4 @@ Roger da Silva Ferreira
 
 Graduated in International Relations, working with foreign trade and currently transitioning to the data analysis field.
 Strong interest in data analytics, SQL, data visualization and data-driven insights applied to business, social and economic contexts.
----
 
-### 2. Dashboard — Data Visualization & Storytelling
-Interactive and analytical dashboard designed to explore key indicators
-through visual storytelling and exploratory analysis.
-
-📁 Notebook: `dashboard-analise-indicadores-sociais.ipynb`
