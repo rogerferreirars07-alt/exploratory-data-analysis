@@ -3,7 +3,9 @@
 This repository contains data analysis, visualization and SQL analytics projects developed using Python and Databricks SQL.
 The objective is to demonstrate practical, end-to-end analytical skills, including data ingestion, data cleaning, exploratory analysis, business-oriented SQL querying, visualization and data storytelling using real-world datasets.
 
-The projects were developed for academic and portfolio purposes, following industry best practices in analytics and data analysis.
+This analysis simulates a business scenario where a retail company needs to understand sales performance, customer profile and revenue drivers to support strategic decisions
+
+Developed as portfolio projects simulating real-world business scenarios and industry analytics workflows.
 
 📊 Project Highlights
 🔹 Data Visualization Dashboard (Python)
